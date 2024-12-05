@@ -50,8 +50,4 @@ body {
   color: #333333;
 
 }
-        body {
-            background-color: gray; /* Серый фон */
-            margin: 0; /* Убираем отступы по умолчанию */
-            font-family: Arial, sans-serif; /* Пример стиля текста */
-        }
+
